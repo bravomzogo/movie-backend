@@ -60,6 +60,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Your Vite frontend URL
     "http://127.0.0.1:5173",
+    "cinetro.onrender.com"
 ]
 
 CORS_ALLOW_CREDENTIALS = True
